@@ -1,0 +1,3 @@
+export const SET_CONTENT = 'SET_CONTENT';
+export const FETCH_DATA_FAILED = 'FETCH_DATA_FAILED';
+export const UPDATE_SEARCH = 'UPDATE_SEARCH';
