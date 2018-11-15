@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/RMaus8/NetflixClone/static/js/runtime~main.98c10933.js"
   },
   {
-    "revision": "97dc1f5f1f9a8dab5863",
-    "url": "/RMaus8/NetflixClone/static/js/main.97dc1f5f.chunk.js"
+    "revision": "85136150ba79edfa655b",
+    "url": "/RMaus8/NetflixClone/static/js/main.85136150.chunk.js"
   },
   {
-    "revision": "643e4c4cd46cb81efd7a",
-    "url": "/RMaus8/NetflixClone/static/js/1.643e4c4c.chunk.js"
+    "revision": "6ff0937c769b56c7c4a9",
+    "url": "/RMaus8/NetflixClone/static/js/1.6ff0937c.chunk.js"
   },
   {
-    "revision": "97dc1f5f1f9a8dab5863",
+    "revision": "85136150ba79edfa655b",
     "url": "/RMaus8/NetflixClone/static/css/main.9ae4e3f6.chunk.css"
   },
   {
-    "revision": "999097e902c26e194088a32c851c6b27",
+    "revision": "dfba95fc3e373430c94261121844f938",
     "url": "/RMaus8/NetflixClone/index.html"
   }
 ];
