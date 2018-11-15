@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/RMaus8/NetflixClone",
+  "homepage": "https://rmaus8.github.io/NetflixClone/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
