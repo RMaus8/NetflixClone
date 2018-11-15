@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/RMaus8/NetflixClone/precache-manifest.82370e325dcf90d599613cd2fec59916.js"
+  "/NetflixClone/precache-manifest.0205602c9b3aed7481dbabbc64452ec9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/RMaus8/NetflixClone/index.html", {
+workbox.routing.registerNavigationRoute("/NetflixClone/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
